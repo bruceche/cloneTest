@@ -1,1 +1,3 @@
 # Bruce file
+
+add a new feature to make the world more beatiful
