@@ -2,3 +2,6 @@
 
 modify the issue 002
 add a new feature to make the world more beatiful
+
+
+bruce add something new to change the Game.
